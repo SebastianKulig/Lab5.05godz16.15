@@ -1,0 +1,11 @@
+.idea
+*.log
+*.pot
+*.pyc
+__pycache__/
+media
+public
+/.env
+.venv
+pg_data/
+deployment/ansible/group_vars/github.yml
